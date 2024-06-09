@@ -1,3 +1,4 @@
-ubuntu
-python:3.11
-
+registry
+twinproduction/gatus
+gdy666/lucky
+6053537/portainer-ce
