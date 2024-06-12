@@ -1,4 +1,1 @@
-registry
-twinproduction/gatus
-gdy666/lucky
-6053537/portainer-ce
+adguard/adguardhome
